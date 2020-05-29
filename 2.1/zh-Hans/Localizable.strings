@@ -1,0 +1,26 @@
+"statuesbar.toggle"="唤醒 FastClip";
+"statuesbar.settings"="偏好设置...";
+"statuesbar.quit"="退出";
+
+"searchinput.placeholder"="检索剪贴板";
+
+"preview.alias"="设置别名";
+"preview.del"="删除该记录";
+"preview.copy"="拷贝于";
+"preview.permission.title"="FastClip需要您电脑上的辅助功能授权，才能将复制到剪切板的内容粘贴到目标应用中。";
+"preview.permission.subtitle"="这个是授权成功后的样式。";
+"preview.permission.action"="去授权";
+"preview.permission.link"="无法完成授权？点击查看详细授权步骤。";
+
+
+"hittable.permission"="需要权限";
+
+"today"="今天";
+"yesterday"="昨天";
+"Sunday"="周日";
+"Monday"="周一";
+"Tuesday"="周二";
+"Wednesday"="周三";
+"Thursday"="周四";
+"Friday"="周五";
+"Saturday"="周六";

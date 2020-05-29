@@ -1,0 +1,25 @@
+"statuesbar.toggle"="Toggle FastClip";
+"statuesbar.settings"="Preferences...";
+"statuesbar.quit"="Quit";
+
+"searchinput.placeholder"="Clipboard Search";
+
+"preview.alias"="Set alias";
+"preview.del"="Del this item";
+"preview.copy"="Copied on";
+"preview.permission.title"="FastClip requires accessibility access on your Mac in order to clipboard integration.";
+"preview.permission.subtitle"="This is an exmaple of correctly granted permissions.";
+"preview.permission.action"="Go and grant";
+"preview.permission.link"="Need some more help? Click and checkout the steps.";
+
+"hittable.permission"="Need permissions.";
+
+"today"="today";
+"yesterday"="yesterday";
+"Sunday"="Sunday";
+"Monday"="Monday";
+"Tuesday"="Tuesday";
+"Wednesday"="Wednesday";
+"Thursday"="Thursday";
+"Friday"="Friday";
+"Saturday"="Saturday";
