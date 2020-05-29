@@ -45,7 +45,7 @@ tigris.shin@gmail.com
 微信:https://fastclip.shenyin.name/wechat
 
 如果你希望帮助FastClip更好的完成本地化，请查看以下链接
-
+https://github.com/shenruisi/fastclip-localized
 
 
 

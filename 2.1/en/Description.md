@@ -37,11 +37,13 @@ When you type
 **CONCAT US**
 
 tigris.shin@gmail.com
+
 Twitter:fastclip
+
 Wechat:https://fastclip.shenyin.name/wechat
 
 Help FastClip to localized, please checkout
-
+https://github.com/shenruisi/fastclip-localized
 
 
 
